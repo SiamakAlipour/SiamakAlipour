@@ -58,7 +58,7 @@ siamak@cyber-lab:~$ _
 **⚡ Main Stack**<br/><br/>
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,git,github&theme=dark" />
 
-<br/><br/>
+<br/>
 
 **🧠 Research & AI**<br/><br/>
 <img src="https://skillicons.dev/icons?i=py&theme=dark" /><br/>
